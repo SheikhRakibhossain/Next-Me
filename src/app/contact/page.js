@@ -4,6 +4,12 @@ const ContactPage = () => {
     return (
         <div>
             I am contact page
+            I am contact page
+            I am contact page
+            I am contact page
+            I am contact page
+            I am contact page
+            I am contact page
         </div>
     );
 };
