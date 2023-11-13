@@ -7,9 +7,7 @@ const Aboutpage = () => {
             I am about page
             I am about page
             I am about page
-            I am about page
-        </div>
+            I am about page </div>
     );
 };
-
 export default Aboutpage;
