@@ -5,6 +5,11 @@ const CoursesPage = ({params}) => {
     return (
         <div>
             I am course page{year}with{id}
+            I am course page{year}with{id}
+            I am course page{year}with{id}
+            I am course page{year}with{id}
+            I am course page{year}with{id}
+            I am course page{year}with{id}
         </div>
     );
 };

@@ -6,6 +6,9 @@ const SingleBlog = ({params}) => {
         <div>
             <h2>Single Blog</h2>
             <h1>I am dynamic page{params.id}</h1>
+            <h1>I am dynamic page{params.id}</h1>
+            <h1>I am dynamic page{params.id}</h1>
+            <h1>I am dynamic page{params.id}</h1>
         </div>
     );
 };
