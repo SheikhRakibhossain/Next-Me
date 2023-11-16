@@ -3,11 +3,11 @@ import React from 'react';
 const Aboutpage = () => {
     return (
         <div>
-            I am about page
-            I am about page
-            I am about page
-            I am about page
-            I am about page </div>
+            <p>we are developing with idea</p>
+
+
+        </div>
+
     );
 };
 export default Aboutpage;
